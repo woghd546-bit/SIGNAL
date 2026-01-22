@@ -1,5 +1,8 @@
 # SIGNAL
 
+# test page
+https://woghd546-bit.github.io/SIGNAL/
+
 # 목표 
 여기서 상 받아오는 것 \
 절반 안에만 들자!!! \
