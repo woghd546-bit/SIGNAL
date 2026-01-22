@@ -1,7 +1,7 @@
 # SIGNAL
 
 # test page
-https://woghd546-bit.github.io/SIGNAL/
+https://woghd546-bit.github.io/SIGNAL/testHTML/
 
 # 목표 
 여기서 상 받아오는 것 \
